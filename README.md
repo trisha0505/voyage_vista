@@ -1,1 +1,1 @@
-# voyage_vista
+# Voyage Vista
